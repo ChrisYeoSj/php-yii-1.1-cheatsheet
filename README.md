@@ -1,11 +1,14 @@
 # Php Yii 1.1 Cheatsheet
 
-## Introduction
-
 ### Motivation
 
 This wip Cheatsheet is for things to note as I encounter my journey through php yii.
 
+
+## Table of Contents
+
+  * [CHttpRequest](#CHttpRequest)
+  * [Exceptions](#Exceptions)
 
 ### CHttpRequest
 
@@ -60,3 +63,8 @@ Precedence
 1. GET
 2. POST
 3. defaultValue
+
+
+### Exceptions
+
+wip
